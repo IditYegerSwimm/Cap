@@ -27,7 +27,6 @@ target
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
 .turbo
 pnpm-lock.yaml
 .zed
